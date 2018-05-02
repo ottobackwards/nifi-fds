@@ -1,6 +1,14 @@
-node_modules/
 target/
+platform/
+scripts/
+.github/
+gh-pages*
+Gruntfile.js
+karma*
 npm-debug.log*
+README.md
+LICENSE
+NOTICE
 
 # Intellij
 .idea/
